@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "147539025601",
+    "project_id": "b2bmazing",
+    "storage_bucket": "b2bmazing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147539025601:android:49be81f9e15e7e509cbe40",
+        "android_client_info": {
+          "package_name": "com.b2bmazing.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147539025601-ggbc5s5t0a9l85qgrk9om5d2l2gclfqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.b2bmazing.store",
+            "certificate_hash": "9f64d972dc13cbd99b933978bbfe8db3d5ae0fd3"
+          }
+        },
+        {
+          "client_id": "147539025601-ca87otr9tpgjv1jggmp4fckoe2d16qb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEEH9zwKmtkW0xwWNn3phqRlmvCdSGeS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147539025601-0dpac3jr4ilqfsc3963dlrkv2ubh3r5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147539025601-h6mpft4vi9ks553la6uoa5m973akuvnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.b2bmazing.store"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
